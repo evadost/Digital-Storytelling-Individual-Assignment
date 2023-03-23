@@ -1,9 +1,9 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital-Storytelling-Individual-Assignment: xxx
+### First and Last Name: Evangelia Dostoglou
+### University Registration Number: dpsd19032
+### GitHub Personal Profile: https://github.com/evadost
+### Digital-Storytelling-Individual-Assignment: 
 
 # Introduction
 
