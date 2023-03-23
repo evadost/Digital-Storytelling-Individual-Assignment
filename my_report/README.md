@@ -3,7 +3,7 @@
 ### First and Last Name: Evangelia Dostoglou
 ### University Registration Number: dpsd19032
 ### GitHub Personal Profile: https://github.com/evadost
-### Digital-Storytelling-Individual-Assignment: 
+### Digital-Storytelling-Individual-Assignment: https://github.com/evadost/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 
